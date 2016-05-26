@@ -1,0 +1,22 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.usb.vid=2717
+ro.usb.id.charge=F006
+ro.usb.id.mtp=ff60
+ro.usb.id.mtp_adb=ff68
+ro.usb.id.ptp=ff10
+ro.usb.id.ptp_adb=ff18
+ro.usb.id.ums=ff20
+ro.usb.id.ums_adb=ff28
+ro.adb.secure=1
+ro.secure=1
+ro.allow.mock.location=0
+ro.debuggable=1
+ro.zygote=zygote32
+persist.sys.usb.config=mtp
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+ro.dalvik.vm.native.bridge=0
